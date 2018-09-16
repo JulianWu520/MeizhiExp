@@ -1,0 +1,12 @@
+index.php
+INDEX.PHP
+index.PHP
+index.php/login/
+l.php
+phpInfo.php
+phpinfo.php
+PhpInfo.php
+PHPinfo.php
+PHPINFO.php
+phpmyadmin/
+phpMyAdmin/
